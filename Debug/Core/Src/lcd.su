@@ -1,0 +1,7 @@
+lcd.c:12:6:lcd_send_command	32	static
+lcd.c:34:6:lcd_sendData	32	static
+lcd.c:52:6:LCD_init	8	static
+lcd.c:68:6:lcd_home	8	static
+lcd.c:72:6:lcd_clear	8	static
+lcd.c:76:6:lcd_shift2line	8	static
+lcd.c:81:6:lcd_send_string	16	static
